@@ -1,15 +1,6 @@
 import PyPDF2
 import os
 
-#
-# reader = PyPDF2.PdfReader("test.pdf")
-#
-# text = reader.pages[0].extract_text().split()
-#
-# barcode = text[0]
-#
-# print(barcode)
-
 directories = os.listdir("files")
 print(directories)
 
