@@ -1,3 +1,5 @@
+For English speakers
+
 # Reguirements
 
 ```console
@@ -11,6 +13,7 @@
 2. Run main.py script.
 3. Get plov or die trying.
    
+Для Узбеков
 
 # Talablar
 
