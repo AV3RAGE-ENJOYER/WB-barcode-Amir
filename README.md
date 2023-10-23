@@ -1,5 +1,3 @@
-:us:
-
 # Reguirements
 
 ```console
@@ -12,8 +10,7 @@
 1. Put directories with Individual Enterpreneur's Amir Abdurakhimov WB barcode pdf files into files directory.
 2. Run main.py script.
 3. Get plov or die trying.
-
-:uz:
+   
 
 # Talablar
 
