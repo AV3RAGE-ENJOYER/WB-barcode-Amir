@@ -2,15 +2,11 @@ import PyPDF2
 import os
 
 directories = os.listdir("files")
-print(directories)
 
 for directory in directories:
     files = os.listdir(f"files/{directory}")
 
     files_without_txt = [x for x in files if ".txt" not in x]
-
-    print(files)
-    print(files_without_txt)
 
     if len(files) != len(files_without_txt):
         continue
